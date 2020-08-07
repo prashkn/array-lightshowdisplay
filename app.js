@@ -5,7 +5,12 @@
 //work on the lighting up and speed part of it
 
 var lights = document.getElementById("lightHolder");
+var startGame = document.getElementById("startGame");
+let placeholder = document.getElementById("light" );
 let lightArray = [];
+let counter = 0;
+let lightcounter = 0;
+let i;
 
 //slider stuff for amount of lights
 var slider = document.getElementById("nolSlider");
@@ -14,6 +19,7 @@ numberOfLightsOutput.innerHTML = slider.value; // Display the default slider val
 slider.oninput = function() {
   numberOfLightsOutput.innerHTML = this.value;
   lights.innerHTML = "";
+  counter=0;
   showLights();
 }
 
@@ -25,9 +31,9 @@ speedSlider.oninput = function() {
   speedOutput.innerHTML = this.value;
 }
 
-
 function showLights(){
   for (var num = 0; num < slider.value; num++) {
-    lights.innerHTML += '<img class="lights" src="lightbulb.png" style="height: 50px;">';
+    lights.innerHTML += '<img class="lights" id="light' + counter + '" src="lightbulb.png" style="height: 50px;">';
+    counter++;
   }
 }
