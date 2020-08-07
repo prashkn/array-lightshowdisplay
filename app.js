@@ -286,6 +286,10 @@ function brightUp(){
     lightArray[59].src = "bwlightbulb.png";
   },x); x = x + speed;
   setTimeout(function(){
+    lightArray[59].src = "lightbulb.png";
+    lightArray[60].src = "bwlightbulb.png";
+  },x); x = x + speed;
+  setTimeout(function(){
     lightArray[60].src = "lightbulb.png";
     lightArray[61].src = "bwlightbulb.png";
   },x); x = x + speed;
@@ -332,5 +336,117 @@ function brightUp(){
   setTimeout(function(){
     lightArray[71].src = "lightbulb.png";
     lightArray[72].src = "bwlightbulb.png";
+  },x); x = x + speed;
+  setTimeout(function(){
+    lightArray[72].src = "lightbulb.png";
+    lightArray[73].src = "bwlightbulb.png";
+  },x); x = x + speed;
+  setTimeout(function(){
+    lightArray[73].src = "lightbulb.png";
+    lightArray[74].src = "bwlightbulb.png";
+  },x); x = x + speed;
+  setTimeout(function(){
+    lightArray[74].src = "lightbulb.png";
+    lightArray[75].src = "bwlightbulb.png";
+  },x); x = x + speed;
+  setTimeout(function(){
+    lightArray[75].src = "lightbulb.png";
+    lightArray[76].src = "bwlightbulb.png";
+  },x); x = x + speed;
+  setTimeout(function(){
+    lightArray[76].src = "lightbulb.png";
+    lightArray[77].src = "bwlightbulb.png";
+  },x); x = x + speed;
+  setTimeout(function(){
+    lightArray[77].src = "lightbulb.png";
+    lightArray[78].src = "bwlightbulb.png";
+  },x); x = x + speed;
+  setTimeout(function(){
+    lightArray[78].src = "lightbulb.png";
+    lightArray[79].src = "bwlightbulb.png";
+  },x); x = x + speed;
+  setTimeout(function(){
+    lightArray[79].src = "lightbulb.png";
+    lightArray[80].src = "bwlightbulb.png";
+  },x); x = x + speed;
+  setTimeout(function(){
+    lightArray[80].src = "lightbulb.png";
+    lightArray[81].src = "bwlightbulb.png";
+  },x); x = x + speed;
+  setTimeout(function(){
+    lightArray[81].src = "lightbulb.png";
+    lightArray[82].src = "bwlightbulb.png";
+  },x); x = x + speed;
+  setTimeout(function(){
+    lightArray[82].src = "lightbulb.png";
+    lightArray[83].src = "bwlightbulb.png";
+  },x); x = x + speed;
+  setTimeout(function(){
+    lightArray[83].src = "lightbulb.png";
+    lightArray[84].src = "bwlightbulb.png";
+  },x); x = x + speed;
+  setTimeout(function(){
+    lightArray[84].src = "lightbulb.png";
+    lightArray[85].src = "bwlightbulb.png";
+  },x); x = x + speed;
+  setTimeout(function(){
+    lightArray[85].src = "lightbulb.png";
+    lightArray[86].src = "bwlightbulb.png";
+  },x); x = x + speed;
+  setTimeout(function(){
+    lightArray[86].src = "lightbulb.png";
+    lightArray[87].src = "bwlightbulb.png";
+  },x); x = x + speed;
+  setTimeout(function(){
+    lightArray[87].src = "lightbulb.png";
+    lightArray[88].src = "bwlightbulb.png";
+  },x); x = x + speed;
+  setTimeout(function(){
+    lightArray[88].src = "lightbulb.png";
+    lightArray[89].src = "bwlightbulb.png";
+  },x); x = x + speed;
+  setTimeout(function(){
+    lightArray[89].src = "lightbulb.png";
+    lightArray[90].src = "bwlightbulb.png";
+  },x); x = x + speed;
+  setTimeout(function(){
+    lightArray[90].src = "lightbulb.png";
+    lightArray[91].src = "bwlightbulb.png";
+  },x); x = x + speed;
+  setTimeout(function(){
+    lightArray[91].src = "lightbulb.png";
+    lightArray[92].src = "bwlightbulb.png";
+  },x); x = x + speed;
+  setTimeout(function(){
+    lightArray[92].src = "lightbulb.png";
+    lightArray[93].src = "bwlightbulb.png";
+  },x); x = x + speed;
+  setTimeout(function(){
+    lightArray[93].src = "lightbulb.png";
+    lightArray[94].src = "bwlightbulb.png";
+  },x); x = x + speed;
+  setTimeout(function(){
+    lightArray[94].src = "lightbulb.png";
+    lightArray[95].src = "bwlightbulb.png";
+  },x); x = x + speed;
+  setTimeout(function(){
+    lightArray[95].src = "lightbulb.png";
+    lightArray[96].src = "bwlightbulb.png";
+  },x); x = x + speed;
+  setTimeout(function(){
+    lightArray[96].src = "lightbulb.png";
+    lightArray[97].src = "bwlightbulb.png";
+  },x); x = x + speed;
+  setTimeout(function(){
+    lightArray[97].src = "lightbulb.png";
+    lightArray[98].src = "bwlightbulb.png";
+  },x); x = x + speed;
+  setTimeout(function(){
+    lightArray[98].src = "lightbulb.png";
+    lightArray[99].src = "bwlightbulb.png";
+  },x); x = x + speed;
+  setTimeout(function(){
+    lightArray[99].src = "lightbulb.png";
+    lightArray[100].src = "bwlightbulb.png";
   },x); x = x + speed;
 }
