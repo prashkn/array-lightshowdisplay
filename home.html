@@ -5,14 +5,14 @@
     </head>
     <body>
         <h1>Array Lightshow</h1> <br>
-        <button id="startGame">Start the show</button>
+        <button id="startGame" onclick="brightUp();">Light it up!</button>
         <div class="slidecontainer">
             <h3>Number of Lights: <span id="numberOfLights"></span></h3>
-            <input type="range" min="1" max="200" value="1" class="slider" id="nolSlider">
+            <input type="range" min="1" max="100" value="1" class="slider" id="nolSlider">
         </div>
         <div class="slidecontainer">
             <h3>Speed: <span id="speed"></span></h3>
-            <input type="range" min="1" max="20" value="10" class="slider" id="speedSlider">
+            <input type="range" min="6" max="12" value="20" class="slider" id="speedSlider">
         </div> <br><br><br>
         <div id="lightHolder">
             <img class="lights" id="light0" src="lightbulb.png" style="height: 50px;">
